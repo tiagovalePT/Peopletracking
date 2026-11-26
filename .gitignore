@@ -1,0 +1,9 @@
+.venv/
+.yolo/
+__pycache__/
+*.py[cod]
+*.pt
+*.mov
+*.mp4
+*.jsonl
+.DS_Store
